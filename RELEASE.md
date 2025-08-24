@@ -15,7 +15,7 @@ docker pull ayufan/proxmox-ve:#{GIT_TAG_NAME}
 ## Run as a docker container
 
 ```bash
-wget https://raw.githubusercontent.com/ayufan-research/pve-ve-dockerfiles/refs/heads/master/docker-compose.yml
+wget https://raw.githubusercontent.com/ayufan/pve-ve-dockerfiles/refs/heads/master/docker-compose.yml
 ```
 
 Adapt `docker-compose.yml` to your environment.
